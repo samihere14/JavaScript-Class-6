@@ -1,2 +1,2 @@
-# JavaScript-Class-6
-This is my Practice Questions of String Methods :)
+String-Methods
+This is my Practice Questions of String Methods in JS :)
